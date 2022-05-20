@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentifyDifferencesInSchemas", "IdentifyDifferencesInSchemas\IdentifyDifferencesInSchemas.csproj", "{AC57DBED-0266-4493-A06D-4CC3E9433340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC57DBED-0266-4493-A06D-4CC3E9433340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC57DBED-0266-4493-A06D-4CC3E9433340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC57DBED-0266-4493-A06D-4CC3E9433340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC57DBED-0266-4493-A06D-4CC3E9433340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC78B4B8-3ACE-4295-A418-85E87F6EBE8B}
+	EndGlobalSection
+EndGlobal
